@@ -2,15 +2,6 @@ package com.appstudio.android.sample.ch_7;
 
 import com.appstudio.android.sample.R;
 
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.DialogInterface;
-import android.os.Bundle;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.widget.Toast;
-
 public class AlertDialogActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
